@@ -17,6 +17,7 @@ This repository contains all my school projects and files (Sept 2025 - 2029).
 
 ## Directory Structure
 
+```
 Hogeschool-rotterdam/
 └── jaar1/
     ├── cle1/               # CLE1 coursework and assignments
@@ -24,4 +25,4 @@ Hogeschool-rotterdam/
     ├── frontend/           # Front-end development projects and exercises
     ├── programming1/       # Programming assignments and exercises
     └── slc/                # SLC tasks and related materials
-    
+```
